@@ -1,0 +1,14 @@
+C:\Users\HP_15Tq\source\repos\Cod4Vid12\Cod4Vid12\bin\Debug\net8.0\Cod4Vid12.exe
+C:\Users\HP_15Tq\source\repos\Cod4Vid12\Cod4Vid12\bin\Debug\net8.0\Cod4Vid12.deps.json
+C:\Users\HP_15Tq\source\repos\Cod4Vid12\Cod4Vid12\bin\Debug\net8.0\Cod4Vid12.runtimeconfig.json
+C:\Users\HP_15Tq\source\repos\Cod4Vid12\Cod4Vid12\bin\Debug\net8.0\Cod4Vid12.dll
+C:\Users\HP_15Tq\source\repos\Cod4Vid12\Cod4Vid12\bin\Debug\net8.0\Cod4Vid12.pdb
+C:\Users\HP_15Tq\source\repos\Cod4Vid12\Cod4Vid12\obj\Debug\net8.0\Cod4Vid12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP_15Tq\source\repos\Cod4Vid12\Cod4Vid12\obj\Debug\net8.0\Cod4Vid12.AssemblyInfoInputs.cache
+C:\Users\HP_15Tq\source\repos\Cod4Vid12\Cod4Vid12\obj\Debug\net8.0\Cod4Vid12.AssemblyInfo.cs
+C:\Users\HP_15Tq\source\repos\Cod4Vid12\Cod4Vid12\obj\Debug\net8.0\Cod4Vid12.csproj.CoreCompileInputs.cache
+C:\Users\HP_15Tq\source\repos\Cod4Vid12\Cod4Vid12\obj\Debug\net8.0\Cod4Vid12.dll
+C:\Users\HP_15Tq\source\repos\Cod4Vid12\Cod4Vid12\obj\Debug\net8.0\refint\Cod4Vid12.dll
+C:\Users\HP_15Tq\source\repos\Cod4Vid12\Cod4Vid12\obj\Debug\net8.0\Cod4Vid12.pdb
+C:\Users\HP_15Tq\source\repos\Cod4Vid12\Cod4Vid12\obj\Debug\net8.0\Cod4Vid12.genruntimeconfig.cache
+C:\Users\HP_15Tq\source\repos\Cod4Vid12\Cod4Vid12\obj\Debug\net8.0\ref\Cod4Vid12.dll

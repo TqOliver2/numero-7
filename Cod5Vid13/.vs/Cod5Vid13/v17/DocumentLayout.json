@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP_15Tq\\source\\repos\\Cod5Vid13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{305BB237-60BA-4578-A7E3-C35E1D8F43F8}|Cod5Vid13\\Cod5Vid13.csproj|c:\\users\\hp_15tq\\source\\repos\\cod5vid13\\cod5vid13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305BB237-60BA-4578-A7E3-C35E1D8F43F8}|Cod5Vid13\\Cod5Vid13.csproj|solutionrelative:cod5vid13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP_15Tq\\source\\repos\\Cod5Vid13\\Cod5Vid13\\Program.cs",
+              "RelativeDocumentMoniker": "Cod5Vid13\\Program.cs",
+              "ToolTip": "C:\\Users\\HP_15Tq\\source\\repos\\Cod5Vid13\\Cod5Vid13\\Program.cs",
+              "RelativeToolTip": "Cod5Vid13\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T02:09:08.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

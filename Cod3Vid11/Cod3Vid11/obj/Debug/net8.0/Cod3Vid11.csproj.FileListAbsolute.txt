@@ -1,0 +1,14 @@
+C:\Users\HP_15Tq\source\repos\Cod3Vid11\Cod3Vid11\bin\Debug\net8.0\Cod3Vid11.exe
+C:\Users\HP_15Tq\source\repos\Cod3Vid11\Cod3Vid11\bin\Debug\net8.0\Cod3Vid11.deps.json
+C:\Users\HP_15Tq\source\repos\Cod3Vid11\Cod3Vid11\bin\Debug\net8.0\Cod3Vid11.runtimeconfig.json
+C:\Users\HP_15Tq\source\repos\Cod3Vid11\Cod3Vid11\bin\Debug\net8.0\Cod3Vid11.dll
+C:\Users\HP_15Tq\source\repos\Cod3Vid11\Cod3Vid11\bin\Debug\net8.0\Cod3Vid11.pdb
+C:\Users\HP_15Tq\source\repos\Cod3Vid11\Cod3Vid11\obj\Debug\net8.0\Cod3Vid11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP_15Tq\source\repos\Cod3Vid11\Cod3Vid11\obj\Debug\net8.0\Cod3Vid11.AssemblyInfoInputs.cache
+C:\Users\HP_15Tq\source\repos\Cod3Vid11\Cod3Vid11\obj\Debug\net8.0\Cod3Vid11.AssemblyInfo.cs
+C:\Users\HP_15Tq\source\repos\Cod3Vid11\Cod3Vid11\obj\Debug\net8.0\Cod3Vid11.csproj.CoreCompileInputs.cache
+C:\Users\HP_15Tq\source\repos\Cod3Vid11\Cod3Vid11\obj\Debug\net8.0\Cod3Vid11.dll
+C:\Users\HP_15Tq\source\repos\Cod3Vid11\Cod3Vid11\obj\Debug\net8.0\refint\Cod3Vid11.dll
+C:\Users\HP_15Tq\source\repos\Cod3Vid11\Cod3Vid11\obj\Debug\net8.0\Cod3Vid11.pdb
+C:\Users\HP_15Tq\source\repos\Cod3Vid11\Cod3Vid11\obj\Debug\net8.0\Cod3Vid11.genruntimeconfig.cache
+C:\Users\HP_15Tq\source\repos\Cod3Vid11\Cod3Vid11\obj\Debug\net8.0\ref\Cod3Vid11.dll
