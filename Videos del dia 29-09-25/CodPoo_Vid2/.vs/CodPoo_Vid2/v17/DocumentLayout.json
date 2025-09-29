@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP_15Tq\\source\\repos\\CodPoo_Vid2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7B924D-C6BB-4504-864F-D2DCA0875471}|CodPoo_Vid2\\CodPoo_Vid2.csproj|c:\\users\\hp_15tq\\source\\repos\\codpoo_vid2\\codpoo_vid2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7B924D-C6BB-4504-864F-D2DCA0875471}|CodPoo_Vid2\\CodPoo_Vid2.csproj|solutionrelative:codpoo_vid2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7B924D-C6BB-4504-864F-D2DCA0875471}|CodPoo_Vid2\\CodPoo_Vid2.csproj|c:\\users\\hp_15tq\\source\\repos\\codpoo_vid2\\codpoo_vid2\\impimir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7B924D-C6BB-4504-864F-D2DCA0875471}|CodPoo_Vid2\\CodPoo_Vid2.csproj|solutionrelative:codpoo_vid2\\impimir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7B924D-C6BB-4504-864F-D2DCA0875471}|CodPoo_Vid2\\CodPoo_Vid2.csproj|c:\\users\\hp_15tq\\source\\repos\\codpoo_vid2\\codpoo_vid2\\models\\superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7B924D-C6BB-4504-864F-D2DCA0875471}|CodPoo_Vid2\\CodPoo_Vid2.csproj|solutionrelative:codpoo_vid2\\models\\superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7B924D-C6BB-4504-864F-D2DCA0875471}|CodPoo_Vid2\\CodPoo_Vid2.csproj|c:\\users\\hp_15tq\\source\\repos\\codpoo_vid2\\codpoo_vid2\\interface\\isuperhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7B924D-C6BB-4504-864F-D2DCA0875471}|CodPoo_Vid2\\CodPoo_Vid2.csproj|solutionrelative:codpoo_vid2\\interface\\isuperhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7B924D-C6BB-4504-864F-D2DCA0875471}|CodPoo_Vid2\\CodPoo_Vid2.csproj|c:\\users\\hp_15tq\\source\\repos\\codpoo_vid2\\codpoo_vid2\\models\\heroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7B924D-C6BB-4504-864F-D2DCA0875471}|CodPoo_Vid2\\CodPoo_Vid2.csproj|solutionrelative:codpoo_vid2\\models\\heroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7B924D-C6BB-4504-864F-D2DCA0875471}|CodPoo_Vid2\\CodPoo_Vid2.csproj|c:\\users\\hp_15tq\\source\\repos\\codpoo_vid2\\codpoo_vid2\\models\\superpower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7B924D-C6BB-4504-864F-D2DCA0875471}|CodPoo_Vid2\\CodPoo_Vid2.csproj|solutionrelative:codpoo_vid2\\models\\superpower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7B924D-C6BB-4504-864F-D2DCA0875471}|CodPoo_Vid2\\CodPoo_Vid2.csproj|c:\\users\\hp_15tq\\source\\repos\\codpoo_vid2\\codpoo_vid2\\models\\antihero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7B924D-C6BB-4504-864F-D2DCA0875471}|CodPoo_Vid2\\CodPoo_Vid2.csproj|solutionrelative:codpoo_vid2\\models\\antihero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Heroe.cs",
+              "DocumentMoniker": "C:\\Users\\HP_15Tq\\source\\repos\\CodPoo_Vid2\\CodPoo_Vid2\\Models\\Heroe.cs",
+              "RelativeDocumentMoniker": "CodPoo_Vid2\\Models\\Heroe.cs",
+              "ToolTip": "C:\\Users\\HP_15Tq\\source\\repos\\CodPoo_Vid2\\CodPoo_Vid2\\Models\\Heroe.cs",
+              "RelativeToolTip": "CodPoo_Vid2\\Models\\Heroe.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T03:19:27.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SuperPower.cs",
+              "DocumentMoniker": "C:\\Users\\HP_15Tq\\source\\repos\\CodPoo_Vid2\\CodPoo_Vid2\\Models\\SuperPower.cs",
+              "RelativeDocumentMoniker": "CodPoo_Vid2\\Models\\SuperPower.cs",
+              "ToolTip": "C:\\Users\\HP_15Tq\\source\\repos\\CodPoo_Vid2\\CodPoo_Vid2\\Models\\SuperPower.cs",
+              "RelativeToolTip": "CodPoo_Vid2\\Models\\SuperPower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T03:04:41.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP_15Tq\\source\\repos\\CodPoo_Vid2\\CodPoo_Vid2\\Program.cs",
+              "RelativeDocumentMoniker": "CodPoo_Vid2\\Program.cs",
+              "ToolTip": "C:\\Users\\HP_15Tq\\source\\repos\\CodPoo_Vid2\\CodPoo_Vid2\\Program.cs*",
+              "RelativeToolTip": "CodPoo_Vid2\\Program.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T02:11:52.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SuperHero.cs",
+              "DocumentMoniker": "C:\\Users\\HP_15Tq\\source\\repos\\CodPoo_Vid2\\CodPoo_Vid2\\Models\\SuperHero.cs",
+              "RelativeDocumentMoniker": "CodPoo_Vid2\\Models\\SuperHero.cs",
+              "ToolTip": "C:\\Users\\HP_15Tq\\source\\repos\\CodPoo_Vid2\\CodPoo_Vid2\\Models\\SuperHero.cs",
+              "RelativeToolTip": "CodPoo_Vid2\\Models\\SuperHero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T03:04:00.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISuperHero.cs",
+              "DocumentMoniker": "C:\\Users\\HP_15Tq\\source\\repos\\CodPoo_Vid2\\CodPoo_Vid2\\Interface\\ISuperHero.cs",
+              "RelativeDocumentMoniker": "CodPoo_Vid2\\Interface\\ISuperHero.cs",
+              "ToolTip": "C:\\Users\\HP_15Tq\\source\\repos\\CodPoo_Vid2\\CodPoo_Vid2\\Interface\\ISuperHero.cs",
+              "RelativeToolTip": "CodPoo_Vid2\\Interface\\ISuperHero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T03:42:41.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Impimir.cs",
+              "DocumentMoniker": "C:\\Users\\HP_15Tq\\source\\repos\\CodPoo_Vid2\\CodPoo_Vid2\\Impimir.cs",
+              "RelativeDocumentMoniker": "CodPoo_Vid2\\Impimir.cs",
+              "ToolTip": "C:\\Users\\HP_15Tq\\source\\repos\\CodPoo_Vid2\\CodPoo_Vid2\\Impimir.cs",
+              "RelativeToolTip": "CodPoo_Vid2\\Impimir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T03:49:48.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AntiHero.cs",
+              "DocumentMoniker": "C:\\Users\\HP_15Tq\\source\\repos\\CodPoo_Vid2\\CodPoo_Vid2\\Models\\AntiHero.cs",
+              "RelativeDocumentMoniker": "CodPoo_Vid2\\Models\\AntiHero.cs",
+              "ToolTip": "C:\\Users\\HP_15Tq\\source\\repos\\CodPoo_Vid2\\CodPoo_Vid2\\Models\\AntiHero.cs",
+              "RelativeToolTip": "CodPoo_Vid2\\Models\\AntiHero.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T02:56:25.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
