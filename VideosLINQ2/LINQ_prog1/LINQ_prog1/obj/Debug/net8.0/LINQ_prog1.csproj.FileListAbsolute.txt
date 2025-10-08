@@ -1,0 +1,29 @@
+C:\Users\HP_15Tq\source\repos\LINQ_prog1\LINQ_prog1\bin\Debug\net8.0\LINQ_prog1.exe
+C:\Users\HP_15Tq\source\repos\LINQ_prog1\LINQ_prog1\bin\Debug\net8.0\LINQ_prog1.deps.json
+C:\Users\HP_15Tq\source\repos\LINQ_prog1\LINQ_prog1\bin\Debug\net8.0\LINQ_prog1.runtimeconfig.json
+C:\Users\HP_15Tq\source\repos\LINQ_prog1\LINQ_prog1\bin\Debug\net8.0\LINQ_prog1.dll
+C:\Users\HP_15Tq\source\repos\LINQ_prog1\LINQ_prog1\bin\Debug\net8.0\LINQ_prog1.pdb
+C:\Users\HP_15Tq\source\repos\LINQ_prog1\LINQ_prog1\obj\Debug\net8.0\LINQ_prog1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP_15Tq\source\repos\LINQ_prog1\LINQ_prog1\obj\Debug\net8.0\LINQ_prog1.AssemblyInfoInputs.cache
+C:\Users\HP_15Tq\source\repos\LINQ_prog1\LINQ_prog1\obj\Debug\net8.0\LINQ_prog1.AssemblyInfo.cs
+C:\Users\HP_15Tq\source\repos\LINQ_prog1\LINQ_prog1\obj\Debug\net8.0\LINQ_prog1.csproj.CoreCompileInputs.cache
+C:\Users\HP_15Tq\source\repos\LINQ_prog1\LINQ_prog1\obj\Debug\net8.0\LINQ_prog1.dll
+C:\Users\HP_15Tq\source\repos\LINQ_prog1\LINQ_prog1\obj\Debug\net8.0\refint\LINQ_prog1.dll
+C:\Users\HP_15Tq\source\repos\LINQ_prog1\LINQ_prog1\obj\Debug\net8.0\LINQ_prog1.pdb
+C:\Users\HP_15Tq\source\repos\LINQ_prog1\LINQ_prog1\obj\Debug\net8.0\LINQ_prog1.genruntimeconfig.cache
+C:\Users\HP_15Tq\source\repos\LINQ_prog1\LINQ_prog1\obj\Debug\net8.0\ref\LINQ_prog1.dll
+C:\Users\Daniel Ubarte\source\repos\Ds4-tareas\LINQ_prog1\LINQ_prog1\obj\Debug\net8.0\LINQ_prog1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Ubarte\source\repos\Ds4-tareas\LINQ_prog1\LINQ_prog1\obj\Debug\net8.0\LINQ_prog1.AssemblyInfoInputs.cache
+C:\Users\Daniel Ubarte\source\repos\Ds4-tareas\LINQ_prog1\LINQ_prog1\obj\Debug\net8.0\LINQ_prog1.AssemblyInfo.cs
+C:\Users\Daniel Ubarte\source\repos\Ds4-tareas\LINQ_prog1\LINQ_prog1\obj\Debug\net8.0\LINQ_prog1.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Ubarte\source\repos\Ds4-tareas\LINQ_prog1\LINQ_prog1\obj\Debug\net8.0\LINQ_prog1.sourcelink.json
+C:\Users\Daniel Ubarte\source\repos\Ds4-tareas\LINQ_prog1\LINQ_prog1\obj\Debug\net8.0\LINQ_prog1.dll
+C:\Users\Daniel Ubarte\source\repos\Ds4-tareas\LINQ_prog1\LINQ_prog1\obj\Debug\net8.0\refint\LINQ_prog1.dll
+C:\Users\Daniel Ubarte\source\repos\Ds4-tareas\LINQ_prog1\LINQ_prog1\obj\Debug\net8.0\LINQ_prog1.pdb
+C:\Users\Daniel Ubarte\source\repos\Ds4-tareas\LINQ_prog1\LINQ_prog1\bin\Debug\net8.0\LINQ_prog1.exe
+C:\Users\Daniel Ubarte\source\repos\Ds4-tareas\LINQ_prog1\LINQ_prog1\bin\Debug\net8.0\LINQ_prog1.deps.json
+C:\Users\Daniel Ubarte\source\repos\Ds4-tareas\LINQ_prog1\LINQ_prog1\bin\Debug\net8.0\LINQ_prog1.runtimeconfig.json
+C:\Users\Daniel Ubarte\source\repos\Ds4-tareas\LINQ_prog1\LINQ_prog1\bin\Debug\net8.0\LINQ_prog1.dll
+C:\Users\Daniel Ubarte\source\repos\Ds4-tareas\LINQ_prog1\LINQ_prog1\bin\Debug\net8.0\LINQ_prog1.pdb
+C:\Users\Daniel Ubarte\source\repos\Ds4-tareas\LINQ_prog1\LINQ_prog1\obj\Debug\net8.0\LINQ_prog1.genruntimeconfig.cache
+C:\Users\Daniel Ubarte\source\repos\Ds4-tareas\LINQ_prog1\LINQ_prog1\obj\Debug\net8.0\ref\LINQ_prog1.dll
